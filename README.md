@@ -15,7 +15,7 @@ A Node.js proof-of-concept REST API using JWT authentication.
 
 ## Setup Instructions
 
-1. **Clone the repository**
+1. **Clone & start local server**
 
    ```bash
    git clone https://github.com/janeshsutharios/REST_JWT_NODEJS_POC.git
@@ -32,17 +32,11 @@ A Node.js proof-of-concept REST API using JWT authentication.
    
    node server.js
    ```
-   Hence console will look like Server running on http://localhost:3000
+   Hence console will look like Server running on http://localhost:300
 
-2. **Start the server Local with terminal**
-
-   ```bash
-   node server.js
-   ```
-
-5. **Access the API**
+2. **Access the API**
 
    - By default, the server runs on [http://localhost:3000](http://localhost:3000)
-   - Use tools like [Postman](https://www.postman.com/) or `curl` to interact with the endpoints.
+   - Use tools like [Postman](https://www.postman.com/) or `curl` to interact with the endpoints. demo JSON collection is here https://github.com/janeshsutharios/REST_JWT_NODEJS_POC/blob/main/JWT%20Auth%20Demo%20Postman%20Local.postman_collection.json
 
 
