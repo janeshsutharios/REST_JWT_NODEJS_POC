@@ -31,8 +31,8 @@ A Node.js proof-of-concept REST API using JWT authentication.
    cd /Users/path/Downloads/REST_JWT_NODEJS_POC-main/jwt-demo-api
    
    node server.js
-   Hence console will look like Server running on http://localhost:3000
    ```
+   Hence console will look like Server running on http://localhost:3000
 
 2. **Start the server Local with terminal**
 
