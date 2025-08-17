@@ -19,7 +19,19 @@ A Node.js proof-of-concept REST API using JWT authentication.
 
    ```bash
    git clone https://github.com/janeshsutharios/REST_JWT_NODEJS_POC.git
+   
    cd REST_JWT_NODEJS_POC
+
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   
+   brew install node
+
+   npm install express
+   
+   cd /Users/path/Downloads/REST_JWT_NODEJS_POC-main/jwt-demo-api
+   
+   node server.js
+   Hence console will look like Server running on http://localhost:3000
    ```
 
 2. **Start the server Local with terminal**
