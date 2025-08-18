@@ -14,7 +14,7 @@ http://localhost:3000
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16 or above recommended)
-- MacBook (macOS)
+- MacOS
 
 ## Setup Instructions
 
