@@ -2,22 +2,14 @@
 
 **A Node.js Proof-of-Concept REST API using JWT Authentication**
 
-This project demonstrates a simple RESTful API built with Node.js that uses JSON Web Tokens (JWT) for authentication. It serves as a foundational example for implementing secure API endpoints.
+This project demonstrates a simple RESTful API built with Node.js that uses JSON Web Tokens (JWT) for authentication. It serves as a foundational example for implementing secure API endpoints. After completing the setup, the API will be available at:
+http://localhost:3000
 
 ### Features
 
 - JWT-based user authentication
 - RESTful API structure
 - Local development server setup
-
-### Getting Started
-
-After completing the setup, the API will be available at:
-
-```
-http://localhost:3000
-```
-You can test the authentication flow and protected routes using tools like Postman or curl.
 
 ## Prerequisites
 
@@ -43,7 +35,7 @@ You can test the authentication flow and protected routes using tools like Postm
    
    node server.js
    ```
-   Hence console will look like Server running on http://localhost:300
+   Hence console will look like Server running on http://localhost:3000
 
 2. **Access the API**
 
